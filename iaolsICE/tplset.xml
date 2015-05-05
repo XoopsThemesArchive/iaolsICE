@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<tplset>
+  <name>iaolsICE</name>
+  <dateCreated>1048624561</dateCreated>
+  <credits>
+
+  </credits>
+  <generator>XOOPS 2.0 RC3</generator>
+  <templates>
+    <template name="system_notification_list.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_dummy.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_comments_nest.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_siteclosed.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_comments_thread.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_comments_flat.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_comment.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_redirect.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_rss.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_notification_select.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_userinfo.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_userform.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_imagemanager2.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_imagemanager.html">
+      <module>system</module>
+      <type>module</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_block_user.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="contact_contactusform.html">
+      <module>contact</module>
+      <type>module</type>
+      <lastModified>1048624566</lastModified>
+    </template>
+    <template name="system_block_login.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="mydownloads_submit.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_singlefile.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_ratefile.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_modfile.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_index.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_download.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_brokenfile.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_topten.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_viewcat.html">
+      <module>mydownloads</module>
+      <type>module</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="system_block_search.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="mylinks_submit.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_singlelink.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_ratelink.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_modlink.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_index.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_link.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_brokenlink.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_topten.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_viewcat.html">
+      <module>mylinks</module>
+      <type>module</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="system_block_waiting.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="news_index.html">
+      <module>news</module>
+      <type>module</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="news_article.html">
+      <module>news</module>
+      <type>module</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="news_archive.html">
+      <module>news</module>
+      <type>module</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="news_item.html">
+      <module>news</module>
+      <type>module</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="system_block_mainmenu.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_block_siteinfo.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_block_online.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="xoopsfaq_category.html">
+      <module>xoopsfaq</module>
+      <type>module</type>
+      <lastModified>1048624593</lastModified>
+    </template>
+    <template name="xoopsfaq_index.html">
+      <module>xoopsfaq</module>
+      <type>module</type>
+      <lastModified>1048624593</lastModified>
+    </template>
+    <template name="system_block_topusers.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="xoopsheadlines_feed.html">
+      <module>xoopsheadlines</module>
+      <type>module</type>
+      <lastModified>1048624598</lastModified>
+    </template>
+    <template name="xoopsheadlines_index.html">
+      <module>xoopsheadlines</module>
+      <type>module</type>
+      <lastModified>1048624598</lastModified>
+    </template>
+    <template name="xoopsmembers_searchresults.html">
+      <module>xoopsmembers</module>
+      <type>module</type>
+      <lastModified>1048624604</lastModified>
+    </template>
+    <template name="xoopsmembers_searchform.html">
+      <module>xoopsmembers</module>
+      <type>module</type>
+      <lastModified>1048624604</lastModified>
+    </template>
+    <template name="system_block_newusers.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="xoopspartners_join.html">
+      <module>xoopspartners</module>
+      <type>module</type>
+      <lastModified>1048624609</lastModified>
+    </template>
+    <template name="xoopspartners_index.html">
+      <module>xoopspartners</module>
+      <type>module</type>
+      <lastModified>1048624609</lastModified>
+    </template>
+    <template name="system_block_comments.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="xoopspoll_results.html">
+      <module>xoopspoll</module>
+      <type>module</type>
+      <lastModified>1048624614</lastModified>
+    </template>
+    <template name="xoopspoll_view.html">
+      <module>xoopspoll</module>
+      <type>module</type>
+      <lastModified>1048624614</lastModified>
+    </template>
+    <template name="xoopspoll_index.html">
+      <module>xoopspoll</module>
+      <type>module</type>
+      <lastModified>1048624614</lastModified>
+    </template>
+    <template name="mydownloads_block_new.html">
+      <module>mydownloads</module>
+      <type>block</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mydownloads_block_top.html">
+      <module>mydownloads</module>
+      <type>block</type>
+      <lastModified>1048624571</lastModified>
+    </template>
+    <template name="mylinks_block_new.html">
+      <module>mylinks</module>
+      <type>block</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="mylinks_block_top.html">
+      <module>mylinks</module>
+      <type>block</type>
+      <lastModified>1048624577</lastModified>
+    </template>
+    <template name="news_block_topics.html">
+      <module>news</module>
+      <type>block</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="news_block_bigstory.html">
+      <module>news</module>
+      <type>block</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="news_block_top.html">
+      <module>news</module>
+      <type>block</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="news_block_new.html">
+      <module>news</module>
+      <type>block</type>
+      <lastModified>1048624583</lastModified>
+    </template>
+    <template name="xoopsheadlines_block_rss.html">
+      <module>xoopsheadlines</module>
+      <type>block</type>
+      <lastModified>1048624598</lastModified>
+    </template>
+    <template name="xoopspartners_block_site.html">
+      <module>xoopspartners</module>
+      <type>block</type>
+      <lastModified>1048624609</lastModified>
+    </template>
+    <template name="xoopspoll_block_poll.html">
+      <module>xoopspoll</module>
+      <type>block</type>
+      <lastModified>1048624614</lastModified>
+    </template>
+    <template name="system_block_notification.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+    <template name="system_block_themes.html">
+      <module>system</module>
+      <type>block</type>
+      <lastModified>1048624587</lastModified>
+    </template>
+  </templates>
+</tplset>
